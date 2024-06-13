@@ -28,10 +28,10 @@ Após se registrar/logar, siga as seguintes etapas:
 const  options  = {
     method:  'GET',
     headers: {
-	    'x-rapidapi-key':  'API__AQUI',
-	    'x-rapidapi-host':  'instagram-scraper-api2.p.rapidapi.com'
-	    }
-	}
+	'x-rapidapi-key':  'API__AQUI',
+	'x-rapidapi-host':  'instagram-scraper-api2.p.rapidapi.com'
+    }
+}
 ```
 
 Após colocar sua API, o que resta é testar.

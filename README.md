@@ -38,4 +38,4 @@ Após colocar sua API, o que resta é testar.
 
 <hr>
 
-> Este é mais um daqueles projetos que criei pra deixar guardado no meu githun e rir la na frente ;).
+> Este é mais um daqueles projetos que criei pra deixar guardado no meu github e rir la na frente ;).
